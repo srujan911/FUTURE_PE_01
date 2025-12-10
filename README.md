@@ -20,21 +20,6 @@ All tasks are organized chronologically and updated according to the internship 
 
 ---
 
-## 📁 Repository Structure  
-FUTURE_PE_01/
-│
-├── tasks/
-│ ├── task_01/
-│ ├── task_02/
-│ ├── task_03/
-│ └── ...
-│
-├── project/
-│ └── final_project/
-│
-└── README.md
-
----
 
 ## 📝 Tasks  
 Each task folder will include:
